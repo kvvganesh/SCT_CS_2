@@ -80,4 +80,4 @@ To reverse it, choose option 4 with the same key and the encrypted file as input
 
 This tool is for educational purposes — to understand basic encryption concepts through pixel manipulation. It is not a substitute for cryptographically secure encryption standards like AES, which should be used for any real-world data protection needs.
 
-This project was built as part of a Cybersecurity Internship learning exercise.
+This project was built as part of my learning exercise.
